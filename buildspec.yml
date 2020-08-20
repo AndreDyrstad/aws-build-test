@@ -4,5 +4,5 @@ phases:
   build:
     commands:
       - chmod +x ./gradlew
-      -  ./gradlew build
-      -  ./gradlew test
+      - ./gradlew build
+      - ./gradlew test

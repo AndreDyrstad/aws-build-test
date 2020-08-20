@@ -11,6 +11,6 @@ class AwsTestApplicationTests {
 	fun contextLoads() {
 		val a = 1
 		val b = 2
-		assertEquals(a+b, 6)
+		assertEquals(a+b, 4)
 	}
 }
